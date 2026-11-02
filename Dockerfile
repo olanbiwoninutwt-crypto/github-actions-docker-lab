@@ -1,4 +1,4 @@
-FROM python:3.12-invalid
+FROM python:3.12-s
 
 WORKDIR /app
 
